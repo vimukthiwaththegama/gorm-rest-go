@@ -2,7 +2,7 @@ package rout
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/vimukthiwaththegama/gorm-rest-go/pkg/controller"
+	"github.com/vimukthiwaththegama/gorm-rest/pkg/controller"
 )
 
 var RegisterBookStoreRoutes = func(r *mux.Router){
