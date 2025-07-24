@@ -1,4 +1,4 @@
-module github.com/vimukthiwaththegama/go-bookstore-be
+module github.com/vimukthiwaththegama/gorm-rest-go
 
 go 1.24.4
 
